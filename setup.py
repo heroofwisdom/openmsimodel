@@ -22,7 +22,6 @@ setupkwargs = dict(
             "open_graph=openmsimodel.graph.open_graph:main",
         ]
     },
-    python_requires=">=3.7,<3.10",
     install_requires=requirements,
     extras_require={},
     classifiers=[
